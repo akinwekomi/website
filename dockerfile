@@ -1,2 +1,2 @@
-FROM akinwekomi/webapp
+FROM akinwekomi/apache
 ADD . /var/www/html
